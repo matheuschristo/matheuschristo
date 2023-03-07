@@ -75,6 +75,4 @@ Formado em Java pelo Entra21 e técnico em Desenvolvimento de Sistema pelo Senai
     </a>
 </p>
 
-<p>
-    ![Snake animation](https://github.com/kauabamorim/kauabamorim/blob/output/github-contribution-grid-snake.svg)    
-</p>
+![Snake animation](https://github.com/kauabamorim/kauabamorim/blob/output/github-contribution-grid-snake.svg)    
