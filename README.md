@@ -74,3 +74,7 @@ Formado em Java pelo Entra21 e técnico em Desenvolvimento de Sistema pelo Senai
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
+
+<p>
+    ![Snake animation](https://github.com/kauabamorim/kauabamorim/blob/output/github-contribution-grid-snake.svg)    
+</p>
