@@ -6,7 +6,7 @@ Junior Developer
 
 A 2 anos estudando e aprendendo sobre programação.\
 Estudante de Bacharelado em Ciência da Computação na FURB, em Blumenau - SC.\
-Formado em Java pelo Entra21 e técnico em Desenvolvimento de Sistema pelo Senai.
+Estudei Java pelo Entra21 e técnico em Desenvolvimento de Sistemas pelo Senai.
 
 * 🌍 Eu moro em Blumenau
 * ✉️ Você pode contatar-me via [dev.mchristo@gmail.com](mailto:dev.mchristo@gmail.com)
