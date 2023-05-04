@@ -5,7 +5,7 @@ Junior Developer
 --------------------
 
 A 2 anos estudando e aprendendo sobre programação.\
-Estudante de Bacharelado em Ciência da Computação na FURB, em Blumenau - SC.\
+Estudante de Ciência da Computação na FURB, em Blumenau - SC.\
 Estudei Java pelo Entra21 e técnico em Desenvolvimento de Sistemas pelo Senai.
 
 * 🌍 Eu moro em Blumenau
