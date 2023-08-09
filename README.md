@@ -4,13 +4,13 @@ Olá 👋 Eu sou Matheus Christo
 Junior Developer
 --------------------
 
-A 2 anos estudando e aprendendo sobre programação.\
+A 3 anos estudando e aprendendo sobre programação.\
 Estudante de Ciência da Computação na FURB, em Blumenau - SC.\
-Estudei Java pelo Entra21 e técnico em Desenvolvimento de Sistemas pelo Senai.
+Estudei Java pelo Entra21 e sou formado em técnico em Desenvolvimento de Sistemas pelo Senai.
 
 * 🌍 Eu moro em Blumenau
 * ✉️ Você pode contatar-me via [dev.mchristo@gmail.com](mailto:dev.mchristo@gmail.com)
-* 🧠 Estou estudando sobre Spring-Security
+* 🧠 Trabalho com Java, em uma empresa de sistema contábil
 
 ### Conhecimento em:  
 
