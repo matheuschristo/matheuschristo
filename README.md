@@ -7,8 +7,8 @@ Junior Developer
 A 3 anos estudando e aprendendo sobre programação.\
 Estudante de Ciência da Computação na FURB, em Blumenau - SC.\
 Estudei Java pelo Entra21 e sou formado em técnico em Desenvolvimento de Sistemas pelo Senai.\
-Trabalho na Ottimizza Automação Contábil <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />\
-E no Tareffa Gestão Contábil <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+Trabalho na Ottimizza Automação Contábil <img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://media.licdn.com/dms/image/C4D0BAQFwNXynFJobdQ/company-logo_200_200/0/1670940386231?e=2147483647&v=beta&t=FJSw7UpXQXDIqMrHiMouKhgizZivMCW8655dNwAQLBA)" alt="OTTIMIZZA" />\
+E no Tareffa Gestão Contábil <img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://media.licdn.com/dms/image/C4E0BAQFk1yhVdsaa-w/company-logo_200_200/0/1615551638927?e=2147483647&v=beta&t=1Rvvvq76VqcrK71iyaCCLg1Xp8XlJk_aTJhIyYCdF-4)" alt="TAREFFA" />
 
 * 🌍 Moro em Blumenau
 * ✉️ Você pode contatar-me via [dev.mchristo@gmail.com](mailto:dev.mchristo@gmail.com)
