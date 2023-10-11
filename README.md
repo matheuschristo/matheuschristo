@@ -6,9 +6,11 @@ Junior Developer
 
 A 3 anos estudando e aprendendo sobre programação.\
 Estudante de Ciência da Computação na FURB, em Blumenau - SC.\
-Estudei Java pelo Entra21 e sou formado em técnico em Desenvolvimento de Sistemas pelo Senai.
+Estudei Java pelo Entra21 e sou formado em técnico em Desenvolvimento de Sistemas pelo Senai.\
+Trabalho na Ottimizza Automação Contábil <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />\
+E no Tareffa Gestão Contábil <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 
-* 🌍 Eu moro em Blumenau
+* 🌍 Moro em Blumenau
 * ✉️ Você pode contatar-me via [dev.mchristo@gmail.com](mailto:dev.mchristo@gmail.com)
 * 🧠 Trabalho com Java, em uma empresa de sistema contábil
 
