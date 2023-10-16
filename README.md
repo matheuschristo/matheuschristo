@@ -1,7 +1,7 @@
 Olá 👋 Eu sou Matheus Christo
 ==============================
 
-Junior Developer
+Trainee Developer
 --------------------
 
 A 3 anos estudando e aprendendo sobre programação.\
