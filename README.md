@@ -59,9 +59,9 @@ Trabalho na Ottimizza Automação Contábil e no Tareffa Gestão Contábil.
 
 ### Badges
 
-<a href="http://www.github.com/matheuschristo">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=matheuschristo&theme=dark&hide_border=true&border_radius=5" />
-</a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschristo&layout=compact&langs_count=7&theme=tokyonight">
+</div>
 
 ### Redes Sociais
 <p>
