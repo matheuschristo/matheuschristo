@@ -11,7 +11,7 @@ Trabalho na Ottimizza Automação Contábil e no Tareffa Gestão Contábil.
 
 * 🌍 Moro em Blumenau
 * ✉️ Você pode contatar-me via [dev.mchristo@gmail.com](mailto:dev.mchristo@gmail.com)
-* 🧠 Trabalho com Java, em uma empresa de sistema contábil
+* 🧠 Trabalho com Java, em uma empresa de sistemas contábeis.
 
 ### Conhecimento em:  
 
