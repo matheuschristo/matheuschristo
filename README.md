@@ -55,8 +55,8 @@ Trabalho na Ottimizza Automação Contábil e no Tareffa Gestão Contábil.
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="MySQL" />
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=PostgreSQL&logoColor=005C84" alt="PostgreSQL" />
     </a>
 </p>
 
@@ -78,5 +78,3 @@ Trabalho na Ottimizza Automação Contábil e no Tareffa Gestão Contábil.
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
-
-![Snake animation](https://github.com/kauabamorim/kauabamorim/blob/output/github-contribution-grid-snake.svg)    
