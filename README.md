@@ -55,6 +55,9 @@ Trabalho na Ottimizza Automação Contábil e no Tareffa Gestão Contábil.
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
+     <a href="" target="_blank" rel="noreferrer">
+        ![PostgreSQL]
+    </a>
 </p>
 
 ### Badges
