@@ -1,7 +1,7 @@
 Olá 👋 Eu sou Matheus Christo
 ==============================
 
-Brazilian Developer
+Brazilian Junior Developer
 --------------------
 
 A 3 anos estudando e se aprimorando em tecnologias.\
