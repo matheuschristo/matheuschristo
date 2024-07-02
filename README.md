@@ -1,18 +1,18 @@
-Olá 👋 Eu sou Matheus Christo
+Hello 👋 I'm Matheus Christo
 ==============================
 
 Brazilian Junior Developer
 --------------------
 
-A 3 anos estudando e se aprimorando em tecnologias.\
-Estudante de Ciência da Computação na FURB, em Blumenau - SC.\
+I've been studying and honing my tech skills for 3 years.\
+Computer Science student at FURB.\
 Sou apaixonado pelo mundo Tech.
 
-* 🌍 Moro em Blumenau, Santa Catarina
-* ✉️ Você pode contatar-me via [dev.mchristo@gmail.com](mailto:dev.mchristo@gmail.com)
-* 🧠 Trabalho com desenvolvimento Back-end, na empresa Tareffa Gestão Contábil.
+* 🌍 I live in Blumenau, Santa Catarina
+* ✉️ You can reach me at [dev.mchristo@gmail.com](mailto:dev.mchristo@gmail.com)
+* 🧠 I work in back-end development at Tareffa Gestão Contábil.
 
-### Conhecimento em:  
+### Skills in:  
 
 #### Frontend:
 <p>
