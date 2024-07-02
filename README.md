@@ -48,7 +48,7 @@ Computer Science student at FURB.\
     </a>
 </p>
 
-#### Banco de Dados:
+#### Database:
 <p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -64,7 +64,7 @@ Computer Science student at FURB.\
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschristo&layout=compact&langs_count=9&theme=tokyonight">
 </div>
 
-### Redes Sociais
+### Social Media
 <p>
     <a href="https://www.linkedin.com/in/matheus-christo-da-silva-799955225" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
