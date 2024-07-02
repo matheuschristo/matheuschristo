@@ -6,7 +6,6 @@ Brazilian Junior Developer
 
 I've been studying and honing my tech skills for 3 years.\
 Computer Science student at FURB.\
-Sou apaixonado pelo mundo Tech.
 
 * 🌍 I live in Blumenau, Santa Catarina
 * ✉️ You can reach me at [dev.mchristo@gmail.com](mailto:dev.mchristo@gmail.com)
