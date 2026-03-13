@@ -5,11 +5,11 @@ Brazilian Junior Developer
 --------------------
 
 I've been studying and honing my tech skills for 3 years.\
-Computer Science student at FURB.\
+Computer Science student at FURB.
 
 * 🌍 I live in Blumenau, Santa Catarina
 * ✉️ You can reach me at [dev.mchristo@gmail.com](mailto:dev.mchristo@gmail.com)
-* 🧠 I work in back-end development at Tareffa Gestão Contábil.
+* 🧠 I work in Full-Stack development at Senior Sistemas.
 
 ### Skills in:  
 
